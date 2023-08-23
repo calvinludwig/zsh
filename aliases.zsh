@@ -1,3 +1,4 @@
+alias cd="z"
 alias nv="nvim"
 alias ls="exa -l --icons --git"
 

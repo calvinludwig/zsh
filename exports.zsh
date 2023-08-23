@@ -11,3 +11,4 @@ export MANWIDTH=999
 
 eval "$(zoxide init zsh)"
 eval "$(fnm env --use-on-cd)"
+eval "$(zellij setup --generate-auto-start zsh)"
