@@ -22,4 +22,3 @@ export PATH="$PATH:$GOPATH/bin"
 
 eval "$(zoxide init zsh)"
 eval "$(fnm env --use-on-cd)"
-eval "$(zellij setup --generate-auto-start zsh)"

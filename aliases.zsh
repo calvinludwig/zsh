@@ -1,6 +1,7 @@
 alias ..="cd .."
 alias nv="nvim"
 alias ls="exa -l --icons --git"
+alias zj="zellij"
 alias zjr="zellij run -c --"
 alias pn="pnpm"
 
