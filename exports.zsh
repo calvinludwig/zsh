@@ -2,8 +2,6 @@ SAVEHIST=9999999
 HISTSIZE=9999999
 HISTFILE=~/.zsh_history
 
-export EDITOR="nvim"
-export VISUAL="nvim"
 export TERMINAL="wezterm"
 export BROWSER="brave"
 export MANPAGER='nvim +Man!'
